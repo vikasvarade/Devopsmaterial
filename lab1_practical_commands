@@ -1,0 +1,54 @@
+
+ot@lab1 Devopsmaterial]# history
+    1  top
+    2  ssh keygen rsa passphrase
+    3  top
+    4  whoami
+    5  ping lab2
+    6  ping 54.210.91.231
+    7  pwd
+    8  yum -y update
+    9  yum install tree -y
+   10  tree
+   11  cd ..
+   12  tree
+   13  cd `
+   14  cd ~
+   15  tree
+   16  which tree
+   17  cd /usr/bin/tr
+   18  cd /usr/bin/tree
+   19  cd /usr/bin
+   20  tree
+   21  pwd
+   22  rpm -qc tree
+   23  which tree
+   24  rpm -qi /usr/bin/tree
+   25  rpm qi /usr/bin/tree
+   26  rpm qc /usr/bin/tree
+   27  rpm -qc /usr/bin/tree
+   28  rpm -qf /usr/bin/tree
+   29  rpm -qc tree-1.6.0-10.amzn2.0.1.x86_64
+   30  rpm -qc tree
+   31  rpm -qf tree
+   32  rpm -qc tree-1.6.0-10.amzn2.0.1.x86_64
+   33  which tree
+   34  rpm -qc /usr/bin/tree
+   35  top
+   36  ls -ltr
+   37  ssh-keygen -t rsa
+   38  vim /root/.ssh/id_rsa.pub
+   39  cat /root/.ssh/id_rsa.pub
+   40  ssh-keygen -t rsa
+   41  cat /root/.ssh/id_rsa.pub
+   42  ssh 54.210.91.231
+   43  cd /opt/
+   44  mkdir Devopsmaterial
+   45  cd /opt/Devopsmaterial/
+   46  git init
+   47  yum install git -y
+   48  git init
+   49  ls
+   50  ls -ltr
+   51  history
+
