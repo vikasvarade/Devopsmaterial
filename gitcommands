@@ -1,0 +1,50 @@
+t init
+   47  yum install git -y
+   48  git init
+   56  git status
+   57  git add lab1_practical_commands
+   58  git status
+   59  git commit -m "my first commit"
+   60  git remote add origin https://github.com/vikasvarade/Devopsmaterial.git
+   61  git push -u origin master
+   62  git remote add origin https://github.com/vikasvarade/Devopsmaterial.git
+   63  git push -u origin master
+   64  git status
+   65  git commit -m"my first commit"
+   66  git status
+   67  git commit -m"my first commit"
+   68    git config --global user.email "you@example.com"
+   69    git config --global user.email "vikas.varade1992@gmail.com"
+   70    git config --global user.name "Your Name"
+   71    git config --global user.name "vikasvarade"
+   72  git commit -m"my first commit"
+   74  git remote add origin https://github.com/vikasvarade/Devopsmaterial.git
+   75  git push -u origin master
+   76  history | grep git
+   77  vim gitcommands.txt
+   78   git init
+   79     47  yum install git -y
+   80     48  git init
+   81     56  git status
+   82     57  git add lab1_practical_commands
+   83     58  git status
+   84     59  git commit -m "my first commit"
+   85     60  git remote add origin https://github.com/vikasvarade/Devopsmaterial.git
+   86     61  git push -u origin master
+   87     62  git remote add origin https://github.com/vikasvarade/Devopsmaterial.git
+   88     63  git push -u origin master
+   89     64  git status
+   90     65  git commit -m"my first commit"
+   91     66  git status
+   92     67  git commit -m"my first commit"
+   93     68    git config --global user.email "you@example.com"
+   94     69    git config --global user.email "vikas.varade1992@gmail.com"
+   95     70    git config --global user.name "Your Name"
+   96     71    git config --global user.name "vikasvarade"
+   97     72  git commit -m"my first commit"
+   98     74  git remote add origin https://github.com/vikasvarade/Devopsmaterial.git
+   99     75  git push -u origin master
+  101  history | grep -i git
+  102  vim gitcommands.txt
+  103  git status
+
